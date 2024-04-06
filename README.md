@@ -2,4 +2,8 @@
 
 ### Flag format: RS{}
 
-* [CryptoWarmup](https://github.com/Befoul-Writeups/RITSEC24Warmups/blob/main/Crypto/Warm%20Up%20Words.md)
+* [Crypto](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Crypto)
+* [Forensics](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Crypto)
+* [MISC](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Misc)
+* [RE](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Reversing)
+* [Web](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Web)
