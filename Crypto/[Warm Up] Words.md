@@ -3,7 +3,7 @@
 We are given a jpg 
 
 <picture>
-  <img alt="pigpen cipher." src="https://github.com/Befoul-Writeups/RITSEC24Warmups/blob/main/image.jpg">
+  <img alt="pigpen cipher." src="https://github.com/Befoul-Writeups/RITSEC24Warmups/blob/main/Crypto/image.jpg">
 </picture>
 
 (I had no idea what this was originally)
