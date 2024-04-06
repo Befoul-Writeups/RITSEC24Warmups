@@ -2,4 +2,4 @@
 
 ### Flag format: RS{}
 
-* [CryptoWarmup](Crypto/[Warm Up Words.md])
+* [CryptoWarmup](Crypto/[Warm Up] Words.md)
