@@ -2,4 +2,4 @@
 
 ### Flag format: RS{}
 
-* [CryptoWarmup](Crypto/Warm Up Words.md)
+* [CryptoWarmup](https://github.com/Befoul-Writeups/RITSEC24Warmups/blob/main/Crypto/Warm%20Up%20Words.md)
