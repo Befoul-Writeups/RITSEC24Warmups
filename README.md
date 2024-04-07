@@ -1,6 +1,6 @@
 # Befoul's Writeups
 
-### Flag format: RS{}
+Flag format: RS{}
 
 * [Crypto](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Crypto)
 * [Forensics](https://github.com/Befoul-Writeups/RITSEC24Warmups/tree/main/Crypto)
